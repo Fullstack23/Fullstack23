@@ -1,5 +1,5 @@
 # Seja bem-vindo/a ao meu portifólio!
-## Sobre minha:
+## Sobre mim:
 
 Sou Heitor Benjamim, formado em Técnico em Informática pelo Senac Botafogo - 2023. Estou cursando programação FullStack pela Faculdade Senac - 2024.
  
