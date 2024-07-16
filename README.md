@@ -17,3 +17,5 @@ Sou Heitor Benjamim, formado em Técnico em Informática pelo Senac Botafogo - 2
 
 - Email:HeitorFB@outlook.com.br 
 - Celular/WhatsApp: (21) 989204715
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
