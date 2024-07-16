@@ -19,3 +19,4 @@ Sou Heitor Benjamim, formado em Técnico em Informática pelo Senac Botafogo - 2
 - Celular/WhatsApp: (21) 989204715
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
